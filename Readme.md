@@ -12,8 +12,6 @@
 running(12325);
 ```
 
-![test image](http://mat.io/layout/images/logo@2x.png)
-
 ## License
 
 (The MIT License)
